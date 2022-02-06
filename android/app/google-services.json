@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "638937214485",
+    "project_id": "recipe-memo-46513",
+    "storage_bucket": "recipe-memo-46513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638937214485:android:0bdaaecb64823a19a3e81c",
+        "android_client_info": {
+          "package_name": "com.ryota.recipe_memo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638937214485-i5kts3g2j4atbcio7ffe81jnu0oqct5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj2vMIwBqfgybmn-epgO4Wm5Wb3eYIAHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638937214485-i5kts3g2j4atbcio7ffe81jnu0oqct5t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "638937214485-tjhrl4ad9r5ijkqjbgiisgp8o4srr2db.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ryota.recipeMemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
